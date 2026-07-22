@@ -88,5 +88,4 @@ The Dash application runs completely in a single Python file and features a clea
 
 ## 🎓 Developer Info
 * **Project**: Capstone Data Science Project
-* **Author**: Het Shah
-* **Institution**: University Engineering Project
+* **Author**: Het Kikani
