@@ -14,6 +14,26 @@ Liver disease is a major healthcare challenge, often linked to lifestyle factors
 
 ---
 
+## 📸 Dashboard Screenshots
+
+| 1. Overview Page | 2. Dataset Analysis Page |
+| :---: | :---: |
+| ![Overview](Liver%20Patient%20Prediction/DS9-1.png) | ![Dataset Analysis](Liver%20Patient%20Prediction/DS9-2.png) |
+
+| 3. Feature Relationships | 4. Model Performance & Evaluation |
+| :---: | :---: |
+| ![Feature Relationships](Liver%20Patient%20Prediction/DS9-3.png) | ![Model Performance](Liver%20Patient%20Prediction/DS9-4.png) |
+
+| 5. Diagnostic Prediction Tool | 6. Diagnostic Prediction Result |
+| :---: | :---: |
+| ![Prediction Tool](Liver%20Patient%20Prediction/DS9-5.png) | ![Prediction Result](Liver%20Patient%20Prediction/DS9-6.png) |
+
+| 7. About Project Page |
+| :---: |
+| ![About Project](Liver%20Patient%20Prediction/DS9-7.png) |
+
+---
+
 ## 📊 Dataset Profile
 The dataset contains **583 records** with **10 clinical features** and a binary target:
 - **Demographics**: Age, Gender
@@ -49,6 +69,14 @@ The dataset contains **583 records** with **10 clinical features** and a binary 
 ```text
 ├── Data/
 │   └── Indian Liver Patient Dataset (ILPD).csv   # Source Dataset
+├── Liver Patient Prediction/                     # Application Screenshots
+│   ├── DS9-1.png
+│   ├── DS9-2.png
+│   ├── DS9-3.png
+│   ├── DS9-4.png
+│   ├── DS9-5.png
+│   ├── DS9-6.png
+│   └── DS9-7.png
 ├── Liver_Patient_Prediction.ipynb                # Capstone Project Notebook
 ├── dashboard.py                                  # Dash Application Code
 ├── requirements.txt                              # Required Libraries
